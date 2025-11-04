@@ -1,0 +1,6 @@
+# requirements.txt
+# MCP (Model Context Protocol) dependencies
+mcp>=1.0.0
+
+# Additional dependencies that might be needed
+anyio>=4.0.0
