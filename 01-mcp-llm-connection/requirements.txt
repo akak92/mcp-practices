@@ -1,0 +1,9 @@
+# requirements.txt
+# MCP (Model Context Protocol) dependencies
+mcp>=1.0.0
+
+# HTTP client for LLM communication
+httpx>=0.25.0
+
+# Additional dependencies
+anyio>=4.0.0
