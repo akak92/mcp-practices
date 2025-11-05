@@ -1,9 +1,8 @@
-from mcp import ClientSession, StdioServerParameters, types
+from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 
 # HTTP client for local LLM
 import httpx
-import json
 import asyncio
 import logging
 
